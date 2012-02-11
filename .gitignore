@@ -1,0 +1,9 @@
+*.rar
+*.sdf
+*.ilk
+*.pdb
+Debug
+Release
+ipch
+*.opensdf
+*.suo
